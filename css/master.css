@@ -32,8 +32,11 @@ p{
 .mess{
   background-color: #E83B05;
 }
-.Punny{
-  text-decoration: none;
-  text-decoration-style: none;
-  text-color: purple;
+body {
+  font-size: 20px;
+  font-color: black;
+  font-family: sans-serif;
+}
+.footer{
+  font-size: 10px;
 }
