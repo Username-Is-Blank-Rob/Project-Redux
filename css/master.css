@@ -4,6 +4,7 @@
 }
 h3{
   text-align: center;
+  font-size:60px;
 }
 p{
   font-size: 30px;
@@ -34,7 +35,7 @@ p{
 }
 body {
   font-size: 20px;
-  
+
   font-family: sans-serif;
 }
 .footer{
@@ -42,4 +43,8 @@ body {
 }
 h6{
   font-size: 60px;
+}
+.carousel-inner img {
+    width: auto;
+    Height: 400px;
 }
